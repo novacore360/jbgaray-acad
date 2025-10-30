@@ -27,7 +27,7 @@
                     successMessage.style.display = 'block';
                     successMessage.innerHTML = `
                         <i class="fas fa-check-circle"></i>
-                        <h3>You've Already Completed Our Survey</h3>
+                <h3><a href="survey-statistic.html">Thank You for Your Participation! Click to View Statistic.</a></h3>
                         <p>Thank you for your previous participation. Explore our resources below.</p>
                     `;
                 }
